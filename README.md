@@ -5,12 +5,15 @@
 - 😄 Pronouns: Ele/Dele
 ##
 <div align="center">
-  <a href="https://github.com/BrunoSantos98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoSantos98&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantos98&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-<div style="display: inline_block"><br>
 
+
+<div style="display: inline_block; margin: 20px;"><br>
+  
+  <h3 align='center'>Tecnologias Aprendidas: </h3>
+  
   <img align="center" alt="Bruno-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Bruno-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,7 +25,7 @@
   <img align="center" alt="Bruno-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
                   
 </div>
-  
+
 ##
   
   <div> 
